@@ -1,3 +1,5 @@
 Hello git, I am learning the basic of YOU :)
 
 Second commit, getting to know more about you.
+
+hello myself... 
